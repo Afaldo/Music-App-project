@@ -73,6 +73,7 @@ body{
 .Text-section{
     flex-direction: column;    
     display: flex;
+    margin-bottom: 150px;
     justify-content: center;
     align-items: flex-start;
     text-shadow: 5px 5px 14px rgba(27, 27, 27, 0.445);
@@ -111,7 +112,7 @@ body{
     border-radius: 45px;
     font-size: 40px; 
     font-weight: bold;
-    box-shadow: 7px 8px 14px rgb(185, 118, 55);
+    box-shadow: 3px 4px 44px rgb(0, 0, 0);
     text-decoration: none;
     transition: all ease 0.4s;
 }
@@ -126,7 +127,8 @@ body{
     align-items: center;
     font-weight: Bold;
     font-size: 48px;
-    color: #110202;
+font-family: 'Heebo', sans-serif;
+    color: #fdf4f4;
 }
 .filler{
     height: 20px;
